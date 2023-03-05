@@ -6,8 +6,11 @@ Life expectancy is a critical measure of the overall health and well-being of a 
 The main goal of this analysis was to answer the following questions in regards of Life Expectancy Data. 
 
 What factors are most strongly associated with life expectancy?
+
 Can we identify specific diseases or health conditions that have had a significant impact on life expectancy? 
+
 How does life expectancy vary by country or region, and what factors explain these differences? 
+
 Does machine learning algorithms help predict life expectancy for individuals or populations? 
 
 Implementation 
