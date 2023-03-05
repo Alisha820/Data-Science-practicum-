@@ -30,7 +30,7 @@ We created three models.
 <img width="513" alt="Screenshot 2023-03-05 at 12 38 18 AM" src="https://user-images.githubusercontent.com/57880271/222948104-42469053-5a70-46bd-88b3-f6b7b38ca559.png">
 
 2.	Multi Linear Regression
-<img width="514" alt="Screenshot 2023-03-05 at 12 38 40 AM" src="https://user-images.githubusercontent.com/57880271/222948125-b399271c-0103-46fa-99fc-81534f26f7ef.png">
+<img width="748" alt="Screenshot 2023-03-05 at 2 02 26 PM" src="https://user-images.githubusercontent.com/57880271/222985792-542c2493-0088-4f9c-90e0-e1bc2e6dc46f.png">
 
 3. Decision tree 
 <img width="568" alt="Screenshot 2023-03-05 at 12 39 19 AM" src="https://user-images.githubusercontent.com/57880271/222948150-b46b8f59-a64b-4f3d-add5-18b256e726a2.png">
@@ -39,7 +39,7 @@ We created three models.
 
 
 
-In conclusion we found that a multi-linear regression model provided a good fit for the test data. Moreover, decision tree models showed high accuracy in predicting percentage expenditure based on GDP and life expectancy based on income composition. The analysis also revealed that adult mortality, HIV/AIDS, thinness, and under-five deaths were associated with decreased life expectancy.
+In conclusion we found that a multi-linear regression model provided a good fit for the test data. Moreover, decision tree models showed high accuracy in predicting percentage expenditure based on GDP and life expectancy based on income composition. The analysis also revealed that adult mortality, HIV/AIDS, Income composition of resources, and schooling were associated with more influence in life expectancy. Particularly, adult mortality and HIV/AIDS decreasing the life expectancy whereas Income composition of resources and Schooling increase in Life expectancy. 
 
 
 Reference 
